@@ -10,17 +10,6 @@
 body {
   font-family: "Poppins", sans-serif;
 }
- /* Light blue color */
-/* body {
-  font-family: "Poppins", sans-serif;
-  background-color: #add8e6; 
-} */
-
-/* Adjust the background for other sections if needed */ /* Light blue color for all sections */
-/* section {
-  background-color: #add8e6; 
-} */
-
 
 html {
   scroll-behavior: smooth;
@@ -59,7 +48,7 @@ nav {
 a {
   color: black;
   text-decoration: none;
-  text-decoration-color: rgb(255, 255, 255);
+  text-decoration-color: white;
 }
 
 a:hover {
